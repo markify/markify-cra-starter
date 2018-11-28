@@ -1,12 +1,11 @@
 import React from 'react';
-//import Class from '../folder/Component';
-
-// React.Fragment - fake dom div
+import Footer from './Footer';
 
 const Index = () => {
 	return (
 		<React.Fragment>
-
+		<h4 style={{textAlign:'center'}}> Index</h4>
+		<Footer/>
 		</React.Fragment>
 	);
 };
