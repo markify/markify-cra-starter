@@ -1,6 +1,6 @@
 ## markify-starter
 
-This is my starter for CRA with sass and router for quick builds
+This is my starter React projects, it is a CRA with sass and router.
 
 - SASS
 - Router
